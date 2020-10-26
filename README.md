@@ -15,5 +15,5 @@ This repo contains 3 files:
 *  `education_spend_table.png` - The rendered png of the table:
 
 <p align="center">
-  <img width="300" src=https://github.com/committedtotape/education-spending/raw/main/education_spend_table.png">
+  <img width = "500" src="https://github.com/committedtotape/education-spending/raw/main/education_spend_table.png">
 </p>
