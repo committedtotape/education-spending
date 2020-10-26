@@ -14,4 +14,6 @@ This repo contains 3 files:
     *  Changing font of the source note using `opt_table_font`. I found this was the only to adjust font of source note. However, on my blog this option was still being overwritten by the default font of my blog.
 *  `education_spend_table.png` - The rendered png of the table:
 
-
+<p align="center">
+  <img width="300" src=https://github.com/committedtotape/education-spending/raw/main/education_spend_table.png">
+</p>
